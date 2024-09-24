@@ -1,0 +1,39 @@
+body {
+    background-color: whitesmoke
+}
+
+/* h1 est en vert */
+
+h1 {
+    color: cyan;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-size: 30px;
+}
+
+li {
+    color: red;
+}
+
+.dormir {
+    color: yellowgreen;
+}
+
+#etudier {
+    color: burlywood;
+}
+
+a {
+    text-decoration: none;
+    color: gold;
+    background-color: violet;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: gray;
+}
